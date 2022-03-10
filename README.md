@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Conor</h1>
-<h3 align="center">A MSc Computer Science (Graduate) from UCD</h3>
+<h3 align="center">A MSc Computer Science (Conversion) Graduate from UCD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yik000&label=Profile%20views&color=0e75b6&style=flat-square" alt="yik000" /> </p>
 
